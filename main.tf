@@ -1,2 +1,5 @@
 provider "aws" {
 }
+
+provider "azure" {
+}
